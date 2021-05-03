@@ -343,7 +343,7 @@ U 1 1 609382DF
 P 4100 3700
 F 0 "H1" V 4054 3850 50  0000 L CNN
 F 1 "MountingHole_Pad" V 4145 3850 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4100 3700 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 4100 3700 50  0001 C CNN
 F 3 "~" H 4100 3700 50  0001 C CNN
 	1    4100 3700
 	0    1    1    0   
@@ -354,7 +354,7 @@ U 1 1 609395BB
 P 4100 3950
 F 0 "H2" V 4054 4100 50  0000 L CNN
 F 1 "MountingHole_Pad" V 4145 4100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4100 3950 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 4100 3950 50  0001 C CNN
 F 3 "~" H 4100 3950 50  0001 C CNN
 	1    4100 3950
 	0    1    1    0   
