@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Type-C)(type Legacy)(uri /home/melonbred/Documents/GitHub/ai03-2725/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name kb-db-rescue)(type Legacy)(uri ${KIPRJMOD}/kb-db-rescue.lib)(options "")(descr ""))
 )
