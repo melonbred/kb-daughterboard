@@ -1,4 +1,4 @@
-Designator,Package,Quantity,Value,LCSC Part #
+Designator,Footprint,Quantity,Value,LCSC Part #
 "R4,R3,R4,R3",R_0805_2012Metric,4,22,C352241
 "R2,R1,R2,R1",R_0805_2012Metric,4,5.1k,C26023
 "USB1,USB1",HRO-TYPE-C-31-M-12-Assembly,2,HRO-TYPE-C-31-M-12,C165948
