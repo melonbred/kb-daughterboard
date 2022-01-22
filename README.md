@@ -4,7 +4,7 @@
 
 ## Instroduction
 
-This project is a USB-C daughterboard that provides with ESD protection and a standard 4-pin JST connector. Dimensions are approximately 42 x 11mm and has two M2 screw mounts. This daughterboard was heavily influenced by the ][C3 Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard) project. While the C3 Unified Daughterboard is a great product, this daughterboard offers a different footprint and vertical JST connector.
+This project is a USB-C daughterboard that provides with ESD protection and a standard 4-pin JST connector. Dimensions are approximately 42 x 11mm and has two M2 screw mounts. This daughterboard was heavily influenced by the [C3 Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard) project. While the C3 Unified Daughterboard is a great product, this daughterboard offers a different footprint and vertical JST connector.
 
 ## Features
 Similarly to the Unified Daugherboard, this daughterboard features the following:
