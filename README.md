@@ -10,7 +10,7 @@ This project is a USB-C daughterboard that provides with ESD protection and a st
 Similarly to the Unified Daugherboard, this daughterboard features the following:
 - Overcurrent protection through a PTC fuse
 - Overvoltage protection through a TVS diode
-- Signle-path USB-C shield grounding to a metal chasis. ESD is disappited through a resistor and diode.
+- Single-path USB-C shield grounding to a metal chasis. ESD is disappited through a resistor and diode.
 
 Please note that this daughterboard does not include resistors for the USB data lines which may be required for some microprocessors. If these resistors are required for your application, please provide them on the PCB mainboard.
 
